@@ -1,2 +1,3 @@
 My first article
 First change that I am making to this file
+I am creating a merge conflict
