@@ -2,3 +2,4 @@ My first article
 First change that I am making to this file
 Change that i make locally
 I made a change to test the Git GUI
+I made a change to test the pull in GUI
